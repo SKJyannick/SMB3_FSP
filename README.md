@@ -4,7 +4,7 @@ Super Mario Bros. The Lost Levels remake in Super Mario Bros. 3 using Super Mari
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To assemble this game, simply run:
-nesasm(.exe, not required.) smb3fsp.asm
+nesasm smb3fsp.asm
 
 **ASM6 not supported.**
 
