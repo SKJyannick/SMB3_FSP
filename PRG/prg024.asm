@@ -2810,7 +2810,7 @@ Ending_Levels:
 	EndLevelDef W402L, 			1,	 1,	 8,	 4		; 5
 	EndLevelDef W301L,			0,	 1,  6,	 2		; 6
 	EndLevelDef W201AL,			1,	 4,  8,	 4		; 7
-	EndLevelDef W101AL,			1,	 4,  8,	 4		; 8
+	EndLevelDef W101AL,			1,	 1,  4,	 0		; 8
 	EndLevelDef KNG1L,			1,	 2,	 0,	 0		; 9
 
 Ending_Text1:
